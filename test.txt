@@ -6,3 +6,6 @@ welcome to the git hub
 
 
 edited ****
+
+
+merge both branches
