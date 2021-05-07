@@ -8,4 +8,7 @@ welcome to the git hub
 edited ****
 
 
+new branch create
+
 merge both branches
+
