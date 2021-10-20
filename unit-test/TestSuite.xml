@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+    <test name="testng.annotations" >
+        <groups>
+            <run>
+                <include name="smoke"/>
+                <exclude name="reg"></exclude>
+            </run>
+        </groups>
+        <classes>
+            <class name="testng.annotations.TestNGTest1" />
+<!--            <class name="testng.annotations.TestNGTest2" />-->
+        </classes>
+    </test>
+
+</suite>
